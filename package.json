@@ -1,5 +1,5 @@
 {
-  "name": "crwn-clothing",
+  "name": "s",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
   "private": true,
@@ -42,5 +42,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "In this section, we are going to introduce our stripe integration and create a stripe button to help us leverage the stripe checkout library. Stripe is an excellent service that allows us to massively simplify our checkout flow, which would otherwise be incredibly complicated.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangMYihua/lesson-24.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhangMYihua/lesson-24/issues"
+  },
+  "homepage": "https://github.com/ZhangMYihua/lesson-24#readme"
 }
